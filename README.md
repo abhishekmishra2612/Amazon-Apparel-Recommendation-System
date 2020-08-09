@@ -5,7 +5,9 @@
 ### Source of dataset is https://www.kaggle.com/ajaysh/women-apparel-recommendation-engine-amazoncom
 This dataset contains informations for women tops only, This is the real world data from Amazon.com
 
-This recommendation system is built using some features('Title of product', 'Type of product', 'Brand of product', 'Color of Product', 'Price of product', 'Image of product') of the products.
+#### We developed this recommendation system using item-item similarity based algorithm .
+
+This recommendation system is built using content of items, content constitutes some features('Title of product', 'Type of product', 'Brand of product', 'Color of Product', 'Price of product', 'Image of product') of the items.
 Title of the product is very important feature because it is short text but it is very informative.
 Since users don't want to being recommended identical items of item that he/she searched for, hence we removed all the possible duplicate items from the dataset.
 ### The main objective of this system is to recommends some relevant items of query item.
