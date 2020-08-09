@@ -1,6 +1,6 @@
 # Amazon-Apparel-Recommendation-System
 
-### This is a simple Apparel Recommendation system whis used Amazon women tops data to recommends some tops/shirts for a query top/shirt.
+### This is a simple Apparel Recommendation system which used Amazon women tops data to recommends some tops/shirts for a query top/shirt.
 
 ### Source of dataset is https://www.kaggle.com/ajaysh/women-apparel-recommendation-engine-amazoncom
 This dataset contains informations for women tops only, This is the real world data from Amazon.com
