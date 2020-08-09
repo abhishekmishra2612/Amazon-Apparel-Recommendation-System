@@ -11,7 +11,7 @@ Since users don't want to being recommended identical items of item that he/she 
 ### The main objective of this system is to recommends some relevant items of query item.
 ### This is low letency problem
 ### This system recommends some relevant items based of similarity between items.
-### Similarity is computed using Euclidean distance between items(Vector representation of items), less distance implies more similar.
+### Similarity is computed using Euclidean distance between items(Vector representation of items), less distance implies more similarity(more revelant).
 
 ## Some of the recommended items for a query item/tops/shirt are:
 Here the Heatmap represents interpretability of the output, each cell shows the euclidean distance between words.
